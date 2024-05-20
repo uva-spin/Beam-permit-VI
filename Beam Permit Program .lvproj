@@ -57,15 +57,15 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Clear sound buffer.vi" Type="VI" URL="../SubVIs/Warning sound/Clear sound buffer.vi"/>
+			<Item Name="BP_Clear sound buffer.vi" Type="VI" URL="../SubVIs/Warning sound/BP_Clear sound buffer.vi"/>
+			<Item Name="BP_Load Sound.vi" Type="VI" URL="../SubVIs/Warning sound/BP_Load Sound.vi"/>
+			<Item Name="BP_Play Warning.vi" Type="VI" URL="../SubVIs/Warning sound/BP_Play Warning.vi"/>
 			<Item Name="Create_waveform_Channel 1.vi" Type="VI" URL="../SubVIs/Create_waveform_Channel 1.vi"/>
 			<Item Name="FMagMonitor.vi" Type="VI" URL="../SubVIs/FMagMonitor19/FMagMonitor.vi"/>
-			<Item Name="Load Sound.vi" Type="VI" URL="../SubVIs/Warning sound/Load Sound.vi"/>
 			<Item Name="LTS60_TCP_init.vi" Type="VI" URL="../SubVIs/LTS60_TCP_init.vi"/>
 			<Item Name="LTS60_TCP_Set_Current.vi" Type="VI" URL="../SubVIs/LTS60_TCP_Set_Current.vi"/>
 			<Item Name="LTS60_TCP_Set_Relay_1.vi" Type="VI" URL="../SubVIs/LTS60_TCP_Set_Relay_1.vi"/>
 			<Item Name="lvsound2.dll" Type="Document" URL="/&lt;resource&gt;/lvsound2.dll"/>
-			<Item Name="Play Warning.vi" Type="VI" URL="../SubVIs/Warning sound/Play Warning.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Beam permit" Type="EXE">
